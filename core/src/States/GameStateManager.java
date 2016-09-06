@@ -1,5 +1,10 @@
 package States;
-
+/*
+ * 
+ * 
+ * GameStateManager variation from original version made by Brent Aureli 
+ * Youtube Channel: https://www.youtube.com/user/Profyx
+ */
 import java.util.Stack;
 
 import com.badlogic.gdx.Gdx;
